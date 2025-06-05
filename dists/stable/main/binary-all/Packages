@@ -22,11 +22,11 @@ Homepage: https://curl.se/docs/caextract.html
 Depends: ca-certificates (= 1:2025.02.25)
 Description: Common CA certificates (java keystore format)
 Filename: dists/stable/main/binary-all/ca-certificates-java_1:2025.02.25_all.deb
-Size: 117144
-MD5Sum: f7adab06bf8637111e4b5d7003c8f9bb
-SHA1: b5a68ec3a0aa7d05c965665ae095e4aafbdec986
-SHA256: b66c9c9f57729c388bcdc90a2ec20cb89dff8c07af7de561b0c264d336407596
-SHA512: 37afe71b3ffcfa074eca5caabcc1eab55bfcaff7f8a1fd3c6d80a6c19f5df5f5eb0a7470b77f38b2d1e2554d716833dbe52ab9e1c36366c4c374d580c34c84f7
+Size: 117132
+MD5Sum: 0b0cc3cc32ca6b060f4aee880cc1ccb9
+SHA1: 3a2135907874c34b83360caecc80921ada58a8d5
+SHA256: 376e504a6b76efcacf69dd3eeb6b61fb1c512acb6dd96372c5ee3053e47c2883
+SHA512: 718d4707a0b7378e5e48a620f890fb4aff85dbc34e2404b1da46a7dd0b1d20fe2362e605c2ad055fd561700baa6c918aefb36483649b9b1dab7b9b17dbd8c697
 
 Package: ca-certificates
 Architecture: all
@@ -36,11 +36,11 @@ Version: 1:2025.02.25
 Homepage: https://curl.se/docs/caextract.html
 Description: Common CA certificates
 Filename: dists/stable/main/binary-all/ca-certificates_1:2025.02.25_all.deb
-Size: 127968
-MD5Sum: fbc6ed4f10c491c3355359d86309c541
-SHA1: 762e7c5f8a044eb37dc8f3b55b0f293bc57c3449
-SHA256: a35790b431933806b63fdd4f588c734e5f8c1fedb7c63a4053ac13423349c602
-SHA512: fc41a3cdd865917fcb7f024df715842975362916a30519074b482eecd5c753f869b5610124664686efe667e3fd765421ce7190fa42c6f64f0efbe3d63d981c23
+Size: 127980
+MD5Sum: c701f8374cf4e6f27bda4f4608438e58
+SHA1: bd17ecea75891ee4ec2c778ae98206e675be5f1f
+SHA256: dd5e884b702c09fb061118ada3c598a69df14b967a8764064e9c0e5c885700e1
+SHA512: 6cf157edb3d913abb6858c0431bf449be42e193973fbfc25699096b762f16f194f80c0a495d05c6c1a5383560ecbbe850046832e73ee4593a35ebef154586386
 
 Package: docbook-xml
 Architecture: all
@@ -148,10 +148,10 @@ Conflicts: termux-tools (<< 0.51)
 Description: Android Oreo-compatible am command reimplementation
 Filename: dists/stable/main/binary-all/termux-am_0.8.0-1_all.deb
 Size: 577264
-MD5Sum: 399b70fa7959fde8e099cc96e24351ca
-SHA1: bb084a50e0240ed47dfba639c43d7e415136bede
-SHA256: f52e6ad8b67bc5304731ab7a9df4138f963427db2ae5aa57016a4068c634a882
-SHA512: f9006dacbd7d0e3178a46a197ee57f9cc6645e7bc9ea66ba08ac86c24d4f8039238ab4e4459166251ca9c13d94f07ed739a78e659c699191ad62941aa80786a2
+MD5Sum: 615f5befade7f7377ba49e4b429e50fd
+SHA1: aaa9b6b470d4ec2035fd10c0a0a3de93a76f14f6
+SHA256: 9ad7fe35c0b6b09e0b81ca643b5aaf6df544ae2766fb728c2b43352e7660c597
+SHA512: d95c548607fa927897d94e80f2866937eef286dc7dca84229d0158fead2924bfa0f2afbcd72ee96db67201c7e6663e103fd28b4c57f254e839cdefc481e0f2b5
 
 Package: termux-keyring
 Architecture: all
