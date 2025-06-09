@@ -25350,6 +25350,15 @@ data/data/com.icst.blockidle/files/usr/share/man/man1/xzfgrep.1.gz              
 data/data/com.icst.blockidle/files/usr/share/man/man1/xzgrep.1.gz                xz-utils
 data/data/com.icst.blockidle/files/usr/share/man/man1/xzless.1.gz                xz-utils
 data/data/com.icst.blockidle/files/usr/share/man/man1/xzmore.1.gz                xz-utils
+data/data/com.icst.blockidle/files/usr/bin/zip                                   zip
+data/data/com.icst.blockidle/files/usr/bin/zipcloak                              zip
+data/data/com.icst.blockidle/files/usr/bin/zipnote                               zip
+data/data/com.icst.blockidle/files/usr/bin/zipsplit                              zip
+data/data/com.icst.blockidle/files/usr/share/doc/zip/copyright                   zip
+data/data/com.icst.blockidle/files/usr/share/man/man1/zip.1.gz                   zip
+data/data/com.icst.blockidle/files/usr/share/man/man1/zipcloak.1.gz              zip
+data/data/com.icst.blockidle/files/usr/share/man/man1/zipnote.1.gz               zip
+data/data/com.icst.blockidle/files/usr/share/man/man1/zipsplit.1.gz              zip
 data/data/com.icst.blockidle/files/usr/lib/libz.a                                zlib-static
 data/data/com.icst.blockidle/files/usr/include/zconf.h                           zlib
 data/data/com.icst.blockidle/files/usr/include/zlib.h                            zlib

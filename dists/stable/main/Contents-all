@@ -2,6 +2,9 @@ data/data/com.icst.blockidle/files/usr/lib/apt/methods/tor                      
 data/data/com.icst.blockidle/files/usr/lib/apt/methods/tor+http                  apt-transport-tor
 data/data/com.icst.blockidle/files/usr/lib/apt/methods/tor+https                 apt-transport-tor
 data/data/com.icst.blockidle/files/usr/share/apt-transport-tor/.placeholder      apt-transport-tor
+data/data/com.icst.blockidle/files/usr/bin/idesetup.sh                           blockidle-tools
+data/data/com.icst.blockidle/files/usr/etc/blockidle/idesetup.sh                 blockidle-tools
+data/data/com.icst.blockidle/files/usr/share/doc/blockidle-tools/copyright       blockidle-tools
 data/data/com.icst.blockidle/files/usr/lib/jvm/java-17-openjdk/lib/security/jssecacerts ca-certificates-java
 data/data/com.icst.blockidle/files/usr/etc/tls/cert.pem                          ca-certificates
 data/data/com.icst.blockidle/files/usr/share/doc/ca-certificates/copyright       ca-certificates

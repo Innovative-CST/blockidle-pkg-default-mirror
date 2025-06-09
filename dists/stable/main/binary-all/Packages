@@ -13,6 +13,22 @@ SHA1: ab416757146b433e89311360b6cbfa18a6a4faec
 SHA256: 8258261d17fc184146e5745951b99bcbde430e1ed27efc5cee420dc771a9add6
 SHA512: f944748f3ca3aaeeae58f77b82468d7723a498ef79e6ddc2420bf44e46373fd975cf7fda84cfac88b25fb31249c5cd46d977d0a3bddb054e2766995686e9424c
 
+Package: blockidle-tools
+Architecture: all
+Installed-Size: 56
+Maintainer: @DevVigilante
+Version: 1.0.0
+Homepage: https://github.com/Innovative-CST/blockidle-tools
+Depends: unzip, libcurl, zip
+Essential: yes
+Description: Installer script for BlockIdle development setup (OpenJDK, Gradle, etc.)
+Filename: dists/stable/main/binary-all/blockidle-tools_1.0.0_all.deb
+Size: 2324
+MD5Sum: 5a93c4b6714b3d3f11efb929ddd49127
+SHA1: 3fd01c04af72f33dbbfd16f355b6672afcbd58cd
+SHA256: 5550fd4652d9c8af1406407b573d0eb16b0fd7f447fe920f5454ed24d230bf88
+SHA512: 053418807547a932d0e428f6cb090708d1a1b65c3ef8402ed219d54ae5c561576fcf714581036f9a3a337c823567da3d99ba966276e332da5f80f3eb79577de7
+
 Package: ca-certificates-java
 Architecture: all
 Installed-Size: 216
@@ -22,11 +38,11 @@ Homepage: https://curl.se/docs/caextract.html
 Depends: ca-certificates (= 1:2025.02.25)
 Description: Common CA certificates (java keystore format)
 Filename: dists/stable/main/binary-all/ca-certificates-java_1:2025.02.25_all.deb
-Size: 117120
-MD5Sum: 81956eba28d1d578a4b9c0beef4448bc
-SHA1: 3b3f12ed7656aabec01fec9f8fde35ff1adcf661
-SHA256: 1fd5c3ffe749dd7b68ff6f26cb358a438d746044969fb7831e11f6796a630eb3
-SHA512: 0a24c256c0af76668faccc2a11243cc7681c0db1667482251ccbe7a484f9ce30475a935e3e03f5175bd7d905d9cf050333676f8bb90c7374291e645c73e745f3
+Size: 117128
+MD5Sum: 7fa5a3abf78883b49c0a6bb2cf91476b
+SHA1: bfd4372ee370a2268bae1a498a02249f9aff931a
+SHA256: fe1fa8f93813ceee0794250b85d5dc53d1e7d80297b3ec01c096f6fb83784092
+SHA512: bedc772cb23d8b7d6d43387de323b5bf0f2a88008c0c1197921d07c81daa5bec48b108a2af6e5a2048a918baf92f1c49fb04b35980baa18906c4ea05679e2691
 
 Package: ca-certificates
 Architecture: all
@@ -36,11 +52,11 @@ Version: 1:2025.02.25
 Homepage: https://curl.se/docs/caextract.html
 Description: Common CA certificates
 Filename: dists/stable/main/binary-all/ca-certificates_1:2025.02.25_all.deb
-Size: 127972
-MD5Sum: 77d0158382a2576a4dfee898576f90da
-SHA1: 8a8edbfa2d8bb5f8786cd2dbf8f1cc16c7cf889f
-SHA256: eebce4973cc3741727eeea7a2d070f27f2c43f00a6ebe328c44698fd24bcb0ee
-SHA512: 2da684468b7b3452fa222556f47442f56975be3dbbe3f1927f731c284b5d7cf82581f2b2955c1b9add48c6d43bd3a6d6de36bb3d69c7f7c01c0d340ef313a6b0
+Size: 127964
+MD5Sum: c1432f29074d64c4a92bd3ca9b7731ad
+SHA1: 87a142e8b0fa0f83456f0d9d59985ec7fc5b7910
+SHA256: 2dc64aefcfd826c3486c06f6bdf6dd6b118c95eaf2cd5b784711ffc3ff505e8f
+SHA512: d9bc900d24e9cf6675e554b1dde338c73f267ba4c99a50184aa0d42a88be4a9c48f7d4f509d1948f5324e463bd0e3d27e42c7a6bed879cd539770b1a797746aa
 
 Package: docbook-xml
 Architecture: all

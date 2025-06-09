@@ -174,11 +174,11 @@ Essential: yes
 Depends: libbz2 (= 1.0.8-6)
 Description: Tools for working with bzip2 compression
 Filename: dists/stable/main/binary-i686/bzip2_1.0.8-6_i686.deb
-Size: 26768
-MD5Sum: 782f584c3e200e6a6b8775d1c3c5a2e0
-SHA1: e4afb0e423ff6fa10b90a25928c7ac1944b15757
-SHA256: 6f3465f38789730bb793cbe157a3b28d53bd0e83b41919e971eef8b105a5ce4d
-SHA512: 5a8c6602241e07e091f4d5d8ddc32cb4d88de4c90dbc2847dc912d71743a161e9a42b2c1bbe061aec9d8dbd9adb3a1cf1729ad7f77be8d3eae512919e544099a
+Size: 26776
+MD5Sum: d6fe439aa73fa198218987b96f3e31cb
+SHA1: eafb77de4aac9b7519aa5cd3bf7c8efe1e84239a
+SHA256: ff50807af10821449c24d0d5d237f8623881dc184c110eec39a95a6541c744b7
+SHA512: 4bdc38aa5c2b30b907403cba6535908ac25c82ba48fb4f08616650d22521093d2c2d228d32354a6e1a624e5af38309f5d0ef9794cb662d05fcb4a92f65231f64
 
 Package: clang
 Architecture: i686
@@ -240,11 +240,11 @@ Essential: yes
 Depends: libcurl (= 8.14.1)
 Description: Command line tool for transferring data with URL syntax
 Filename: dists/stable/main/binary-i686/curl_8.14.1_i686.deb
-Size: 233644
-MD5Sum: 5e47d577fbbbdca37a0ffda28e7da7a6
-SHA1: f77aa27131ebda1bf9e55a5e3ea9c5d600b9096d
-SHA256: e11dc610d6d0beaf4ea8b68003c0126e54851cc2e7c65857beab19d85deb3112
-SHA512: ef8803c119cc71ad68af041618c712ae7f7a6553dce244f4c2849a46c565dc87603ff8baf2369593e690e2babaf42e65f87552d6231147cf7a46be1950725a7c
+Size: 233656
+MD5Sum: 6637a9fab4dcf5c2e40656f53ef12dfc
+SHA1: 32158b4b1e51114e78cbc2efb7b36b7e197d8564
+SHA256: 532a39e51d554d2ad68156aedf7b3d4df1763d4ce1b9c7479470614bb0d53f89
+SHA512: 9cb9ec385756f964119ce4cec9be20ca642c6103009a7b8f92e6b0110ee72c4b18bc7e1441f87926f3babdd6e50cfbe329291098b81deca69aa47ac1c35f8c8f
 
 Package: dash
 Architecture: i686
@@ -768,11 +768,11 @@ Homepage: https://github.com/termux/libandroid-support
 Depends: libandroid-support (= 29)
 Description: Static libraries for libandroid-support
 Filename: dists/stable/main/binary-i686/libandroid-support-static_29_i686.deb
-Size: 8692
-MD5Sum: b131d275af3e041c859f3712fb5e5690
-SHA1: 0a4a11e9398fcdec9a8dbbbddb2a0122886d84e5
-SHA256: 16fa121758507093e0f8adfd267039ab2d6ee2241567fc54afcde6a817c90ff9
-SHA512: 6e25460d941b4cceaef651256c756df1ed69e15ed3099845fa24e6da69db46f65d83797ce0d2beef33a6f3a41cab46b96538c8d1b057512ec7cb041343176cdf
+Size: 8700
+MD5Sum: d8872206e7fcfc8be8c14031691cbb00
+SHA1: 0c2ec3a7f50837570b1c8eb0638edf6aa511e9c9
+SHA256: dcc8abf3f282ae3b5818dc5b7181fc595d2cee0e58bf6ed13db1df94e7cd3d6e
+SHA512: 31e0f5c10e96881a0ee5aa505152ec892c6c127d0ea5badf5208af7eeea979b5b353ada7db7c7d99279747b102a9ab7ab007ccf4f097e6cbb4bd1b31f1840174
 
 Package: libandroid-support
 Architecture: i686
@@ -783,11 +783,11 @@ Homepage: https://github.com/termux/libandroid-support
 Essential: yes
 Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
 Filename: dists/stable/main/binary-i686/libandroid-support_29_i686.deb
-Size: 11188
-MD5Sum: c5e0719996a007169c73872ffe4262dd
-SHA1: 5f8ee23d96629bc86c6b756d3aae840a3c61a2d9
-SHA256: 547023c02c80663127d9d33309abc42c792efbcf7400676cafc88568c97f6d7a
-SHA512: 785360e31ee288dd127c6c5b7fc920e4b9a7952bfc81d08eab6b5277e3f6f005d88c076f3d09744952d522880af784ce604d139f77c5c00f1143fa890ac3f569
+Size: 11192
+MD5Sum: 11c72d9d6b5d49af7b65fed8b6bdb4ff
+SHA1: 9d08ddbea7ca2d450e883fcfdb659ff8d95924f3
+SHA256: d24b215c8bf34361c39e650cc4c3cbb900f7401fd57f5df5501c720007887b25
+SHA512: ecb14492b50e3b23677715c75bc1d1f5648e8b71798a30ba6c47cfd9687903642b1789f5cb86f3bfd45c22ba4ace43792e6e65e92eb6fb19c335633aa3d1ce4b
 
 Package: libandroid-utimes-static
 Architecture: i686
@@ -877,11 +877,11 @@ Essential: yes
 Replaces: libbz2-dev
 Description: BZ2 format compression library
 Filename: dists/stable/main/binary-i686/libbz2_1.0.8-6_i686.deb
-Size: 26324
-MD5Sum: c05467701362c1b9ebdde626a4d47213
-SHA1: 8ef404356ef9e3a77550b2f08562c43cc88eb7bc
-SHA256: b74050b2adf441c0df44f7efb2c30236842d72582f90a2348387e8aacfca18f1
-SHA512: 1ca71b48eeead76eb70e69c93d15d6512ae60691c986ffac3dd392920c4dd8f6d75f159fe72aa7c8450346da98851176e2a1c2fde9ab108a46697b2acc27b448
+Size: 26316
+MD5Sum: 01809a43f9ffc2c9d15992cd338374e4
+SHA1: 4d41dca16e3eb67e7e4cb424cf4492cf75d2db81
+SHA256: 686b047fa0ce34f14a7929b327f430a2ed32d19049e09e00a1aec87e98a8ba38
+SHA512: 29145abe5400e9c024d311a8f21b525c7ab5ffd6fa2393bf361fd9193cfc1a6591e1fbfff55225ae5823013b79d3e16cde2c7138217eb59b55602397b33302ce
 
 Package: libc++
 Architecture: i686
@@ -969,15 +969,15 @@ Homepage: https://curl.se/
 Depends: libcurl (= 8.14.1)
 Description: Static libraries for libcurl
 Filename: dists/stable/main/binary-i686/libcurl-static_8.14.1_i686.deb
-Size: 411588
-MD5Sum: 23b07bc9d8b1972b3f1942af61441066
-SHA1: f109d3c28bb04f96ea8ee43406ea8e0e046aa466
-SHA256: 4e39567695ca430c3e65271f6155db0aa2a657f913bfad81549305443bdd8fa2
-SHA512: bc22ce8c9e1a6ab43ca0ae057061af90d630846ae260337f85b418f7b10d79a47678282c58fbfbd6a5ed7230012b27504a947e5e53aeb239f06c9ba51a3ccc51
+Size: 411456
+MD5Sum: a642bc498262e3fbe16d0ee0369919a1
+SHA1: e617c3e30e72b127ea934e12ccc6a313b24482fb
+SHA256: bb97f28c654198ba0bab23c6b5c68b29a847be33f7bba0a808c4b1e413e0037d
+SHA512: 59a660f21e6d2c3ecc531b594c4e1042d5da6f89fc2c812c78faae67cb620922fd7470a4c0d62413dd176f83d5983329a06e548939d6beeb2388027c242f661c
 
 Package: libcurl
 Architecture: i686
-Installed-Size: 3344
+Installed-Size: 3348
 Maintainer: @termux
 Version: 8.14.1
 Homepage: https://curl.se/
@@ -988,11 +988,11 @@ Conflicts: apt (<< 1.4.8-8)
 Replaces: libcurl-dev
 Description: Easy-to-use client-side URL transfer library
 Filename: dists/stable/main/binary-i686/libcurl_8.14.1_i686.deb
-Size: 1002564
-MD5Sum: ca5bb0c4cd1802742b79d4fd07b13747
-SHA1: a84bdca53969d93a30e4032686d86104669d694d
-SHA256: c32207aa7e5ddf70bdd8b8a59199f6ed599f4e8770c5a5bb02623643cd34e3fa
-SHA512: 6fd6c02ed0d3aaf80308a762844970910a01990535b12d17469b0f3cc7720651682e342084fa50294a415688f928316671fc0d491a9667fe6b3272aa4b5e0d96
+Size: 1003476
+MD5Sum: e9f8b847bae790a85d7ced9259c2e5ec
+SHA1: 188c232454fc7ebd4b46e4851730102f66aacc13
+SHA256: 1b604de8505912e565bd77cfb9eb4bda9c170238884aa6262f700b2cb86c1a1b
+SHA512: 39822658901e26a3d0cfbb48ca043ded649e6923681095ffcbfe3ba1451619d1829fa999f1e4d200ccff0366e0b4eedd2daa864ac396731f1b43ddd3c654523e
 
 Package: libdb-static
 Architecture: i686
@@ -1539,11 +1539,11 @@ Homepage: https://nghttp2.org/
 Depends: libnghttp2 (= 1.65.0)
 Description: Static libraries for libnghttp2
 Filename: dists/stable/main/binary-i686/libnghttp2-static_1.65.0_i686.deb
-Size: 66352
-MD5Sum: 3ff8dfb4439a9f32e189202e3e74b807
-SHA1: b4beceb6673aaeea604f3431b49e2696195df246
-SHA256: 50e60b7db9acb5bf63f530c9cf69e90accb45a2e26fac2758d1adde878c30a78
-SHA512: 9706aea274a613000c2719bb38a44360cfabd6a1b715e9cb6824a790a6c2f85052fbfc00897285adf2ea9a4a6c1be6371d20c2e5fd5a1488680dbc78c83eb746
+Size: 66360
+MD5Sum: 20210ad722a798722fd911afaaf64a8e
+SHA1: c8d9fa55683ea9334b5de9d37fc6f079d3a53e73
+SHA256: 9c314d7ce3ecfed3e43f91ba5d1ba28993d0cd70f9dbcbc2431be2fe71d48ed4
+SHA512: eb89daa3625a9a7286a5af1ebbd48cd889092f6b4405c99a0b745584f003f7079b4de9cbf223a5738c9e6df4246a555264aaefa42f8519edc653841505dd9319
 
 Package: libnghttp2
 Architecture: i686
@@ -1555,11 +1555,11 @@ Breaks: libnghttp2-dev
 Replaces: libnghttp2-dev
 Description: nghttp HTTP 2.0 library
 Filename: dists/stable/main/binary-i686/libnghttp2_1.65.0_i686.deb
-Size: 99432
-MD5Sum: 2356085d85edc57e57c2b550744eb00b
-SHA1: 223c67d10645e3d82d53a6ec17a77d3207caaaae
-SHA256: ecd195ae44c1ebe79cc35ec20daff2e1aea1b1cb1db29f64a3440a00f583559c
-SHA512: 94023185f07cb0a9ecaae9869446b62441b70cb574eb350900bdef0f1c319ad5c34766e85074b5c9e4135bff0a0d83b5de7d4e6c1e96a7cc2135539b715df350
+Size: 99408
+MD5Sum: 002ef49756f57410068fc07a7d7c8abf
+SHA1: 8f57de020e9fdbd8d867015e9b344e402cf94c4d
+SHA256: f898d9b8b503d742d9809dc6b9bdb57667a54bbc56bafec4af132d154b60fb47
+SHA512: e0ac9f3067e79a36544de8ced8da7f6b5146b3f478a7623d03e3ee1b14b978b9ba3b9ee93cf4fa3f9e0072fc01473f2bdd237a0d0ef83264dce07c5953c75e5d
 
 Package: libnghttp3-static
 Architecture: i686
@@ -1570,11 +1570,11 @@ Homepage: https://nghttp2.org/nghttp3/
 Depends: libnghttp3 (= 1.10.1)
 Description: Static libraries for libnghttp3
 Filename: dists/stable/main/binary-i686/libnghttp3-static_1.10.1_i686.deb
-Size: 65844
-MD5Sum: c42ffed2787b6d4aef99315cfc4ec470
-SHA1: 17a1218937ba96c0e028b7739eebc9d6d37f4bad
-SHA256: ed8098b3d4d926edabb413bf6d20ffb0f954e761bdf62313edcd8d5d6fe4f78e
-SHA512: f821afcdc8bf94e7e39b8509e46ab1c51425506d55cd6cac00922568d9a0ef25555f5918282862fdd0b750c9c76c5e6f543af2c17742fd7fa5992e00a5b9275a
+Size: 65892
+MD5Sum: e5740f771ce1cb309d5ec7fa0b14e1fb
+SHA1: 5c1e1859e469e8891d7fba0817d50c2101691d65
+SHA256: bb5de900946d47e4bd13e621daf51cf0053c21a8394abd00c5ab5e036a2f93d4
+SHA512: a0d6859616d3d8437f5d689a0b696090b25c99ff2f57574975b6664696847de705a58ac000ba7ce2f4ec939b807a688f56b1eae2252ecda0bc85ce383df4d0fd
 
 Package: libnghttp3
 Architecture: i686
@@ -1585,11 +1585,11 @@ Homepage: https://nghttp2.org/nghttp3/
 Essential: yes
 Description: HTTP/3 library written in C
 Filename: dists/stable/main/binary-i686/libnghttp3_1.10.1_i686.deb
-Size: 70276
-MD5Sum: 8d70f0ac92f9229082499c12b8c6a0f6
-SHA1: a1a7b533ad1e6b0fd9fc8390c545ea48f47245b3
-SHA256: 86317ef63697d757739553875726aa0af721045edebe16ba52e2fa0ab68a5d35
-SHA512: 9b21130d9a0aa0c99f77128a10743623fed06622ff5ef07716c77ce28e4ee14be328cc7af73470fd24dacba5a7fd9cf111258ee2f7da0977d6c957dd101bbe24
+Size: 70056
+MD5Sum: a63c2cf03e23ebb5839b3ff68af8355e
+SHA1: 11237fe44a84892de6899d7099da28cbcc9063b0
+SHA256: a76cc11f618b526bed7dc3a3a3c4d23445fba7fdf181a9db1e3a7148fd799c1b
+SHA512: 7f69f9ed4cf22fef2447465f032a8b74ca09f89cbcf60c0f598b0c9c01cc1aa5a8d1d8784810e33f527febf19978d831600792ca01e1fbb3c5c457f171c0fd0c
 
 Package: libnpth-static
 Architecture: i686
@@ -1742,11 +1742,11 @@ Homepage: https://www.libssh2.org
 Depends: libssh2 (= 1.11.1)
 Description: Static libraries for libssh2
 Filename: dists/stable/main/binary-i686/libssh2-static_1.11.1_i686.deb
-Size: 107568
-MD5Sum: 76575c160c5d6ff34ee53904b6df6571
-SHA1: 9e8a515f03718160bfed9b643fa98ebaec8b5d3f
-SHA256: 737d19aef47544ddb24905b06b4c52ebf7a2bd84f31ed4dd06722d804e3e4d78
-SHA512: 8d1e5192dd720b54cbdb8bf3931c28f7a2fc2bf2f122852f71d2f704f03b62602ee6dbb298945f0a5aeddbb6a1b8a1254ae5ade3e7b84f589abbb88573351a1e
+Size: 107540
+MD5Sum: e448e308f73f10e703a1d17a297add1d
+SHA1: 3c8f106d3feff09e6611b1a589e0bac526a17367
+SHA256: 200c83250e2b75a62654e898f3eb98eca104f59b2e9f53f2dee4dcff6a8ecbcc
+SHA512: 703098183430512cdb3a13a0bafc2c2eabff35bb1e517cbf6d1f567a1c9105214a800ba1eefc4eaa91e7dadde4da44853c68a1498bbf7982f99dd5d2da795b1c
 
 Package: libssh2
 Architecture: i686
@@ -1759,11 +1759,11 @@ Depends: openssl, zlib
 Replaces: libssh2-dev
 Description: Client-side library implementing the SSH2 protocol
 Filename: dists/stable/main/binary-i686/libssh2_1.11.1_i686.deb
-Size: 221720
-MD5Sum: c720ac1fdf675f93f99f6cc59cf360e1
-SHA1: 371013eaa801b143514478a6d19fcdc435b48334
-SHA256: 2ca91fd7474ba8412dfde16e90bca7fd6b2c57f94202bab93e777c5c158ebcf2
-SHA512: e94b427068e0802526036c9a0660a046449dc3aec27d31bcbdd58c1816cdf45d644ce3d55c77a6adba66ddf73c1f6ee101c7212afe29c1b65a03c17668cbecaa
+Size: 221652
+MD5Sum: 669d15740146c19dfb6da418c32315bf
+SHA1: 4fd67152375e07acf06ca37c468a22c233e88f6d
+SHA256: 89ac9d2d8a830dfd89d63a03d422d177bceec8f2f32b8adb11c215c271d6854d
+SHA512: f111bf3dbeb040e711300147d81be80f6d7e15b7673e22df3f191169c789926cacda3f5b74242411bb2802b55c55006f08bb31f47cf8183e06980007619404b5
 
 Package: libtalloc-static
 Architecture: i686
@@ -2529,11 +2529,11 @@ Homepage: https://www.openssl.org/
 Depends: openssl (= 1:3.4.1)
 Description: Static libraries for openssl
 Filename: dists/stable/main/binary-i686/openssl-static_1:3.4.1_i686.deb
-Size: 1949572
-MD5Sum: 5d1b34ee0a987b959691d064aa8775db
-SHA1: d400155812e587be0c5e3d4e9d27a540d1282d6e
-SHA256: 4e79519cc46f0ce59041e23ae4344ae1781dfe555dc07dcee6e321bf78bb17bb
-SHA512: 4ab1057b54fbb540295306449792fb6b90e3a332d2acdb00330477d9548a70dee4873d5cd999ab6cf34f3cefa0e81165c4d7cfef8a83626adff11e574ecdc937
+Size: 1949288
+MD5Sum: 787534ce1b51db6e8bd686066dc2ca3f
+SHA1: 830e6634132466fc9d459e2033caca9cf22f404f
+SHA256: c694c430c58e122947bce5c0aee55d92db7f231d4d87315278d96f37ff4b7c21
+SHA512: aabcfe7ddb9dbbd48384e612bec92daa458890481676551259afc757918f2ca14c013f6e5cbc55107ba1712caee4612976663d02858692f31e3f5a8e79f0055f
 
 Package: openssl-tool
 Architecture: i686
@@ -2544,11 +2544,11 @@ Homepage: https://www.openssl.org/
 Depends: openssl (= 1:3.4.1)
 Description: The openssl command line cryptographic tool
 Filename: dists/stable/main/binary-i686/openssl-tool_1:3.4.1_i686.deb
-Size: 278236
-MD5Sum: 0130641a4f78771af6bf85eb6b6244ee
-SHA1: 18280313acc63b1fefebd7fa84d6383cd6580c61
-SHA256: 10d98507f4aa08acf9aa49e326bf2dbabf5a9219e7b5edebf0694e53dbe7da77
-SHA512: f0b830c1847bd39fa4dd7acb6234440e01e71802ad79a10745b0b5333a97eb88fbdcd5a91c10ea40a14d1017424b4fbc9ebd4796a381ece26ee2da0786471668
+Size: 278436
+MD5Sum: 9de365ca44c7a179b941088dd731c3ee
+SHA1: e43db1ac1fc4345540ad2613183ff854b4977522
+SHA256: 84f919550d3d39581259c2b5503a2cc70ea329e9e19c7351b485e5121c803ef5
+SHA512: 2a53b4a0449372010825340b6a5650d8c35795e300e3f67c119b0b5ce4070eb3474ac907ecc7eae6223920c28ed870f2f2a77ad030fd4e202c9d319a18a0754d
 
 Package: openssl
 Architecture: i686
@@ -2562,11 +2562,11 @@ Conflicts: libcurl (<< 7.61.0-1)
 Replaces: openssl-tool (<< 1.1.1b-1), openssl-dev
 Description: Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
 Filename: dists/stable/main/binary-i686/openssl_1:3.4.1_i686.deb
-Size: 1937348
-MD5Sum: d2764427c397f324bd5dc963d9beb0f5
-SHA1: 5cef4737e6c90fc27c0b5e645ab7328f281b06bd
-SHA256: e50b1fc3f907d8b851b9e2ff045c4c6e00f0275814ad6f4b914a8703c59d2bc7
-SHA512: 687e3c60d1eb0d7573bcb3808ddbf101ac736cc59b3e0974ce0084e765f730dc197f6c862dd7eaddd4539d57a8ddc09fb2b8f19220bd3bfb99bff1244a3b3787
+Size: 1937336
+MD5Sum: 5542fb9ea42429848fb302e1b31e71a6
+SHA1: bbfcfefa99d4e0b01b7feed83f0c090adb50242a
+SHA256: caea14ca723d6848aeee411248cbdd2191c7d059dbb7d6723e2dac68b4e6f0c5
+SHA512: a6935ef762a86420588a0b8184c0f6a460130a09330057dd9abe68856f932110980a1d22a506bcf63c1f5c8ee805a4cbf39d64eae6b88fbb87a037869b5b39c2
 
 Package: patch
 Architecture: i686
@@ -3116,11 +3116,11 @@ Homepage: https://sourceforge.net/projects/infozip/
 Depends: libbz2
 Description: Tools for working with zip files
 Filename: dists/stable/main/binary-i686/unzip_6.0-9_i686.deb
-Size: 117200
-MD5Sum: e98d8046817b6bbc53dfc57780974b51
-SHA1: 6e3d4e115eb587262594ee4a6d8018f4cdb56695
-SHA256: d73faba15c7cc5bbb6955017f98911744204f12e96eb260b22a612f8f41ab116
-SHA512: 1802f94b493ccd94b313b49d3372c584999ef908570772c6e317fc885c207f9f8e04fa154aac2b648a961dcf9837edf31b4ed337c7484033658bd108ef1df984
+Size: 117172
+MD5Sum: cb9e90c32e1c5e12b453a6fa9ffec17a
+SHA1: 9fc3639efe03570e1d8948af60e1ab472ba5538a
+SHA256: bf71e0821fd2a6344da9932d08d6eec0ff1707bc0f497b2dcb553c1502c0b80f
+SHA512: dd90274fb5cb5e548ca71fd770e871f0b1da8b24698285d1300194bd4042eae38df5840e395fc9eac9d8a3bdd35ccb0ba8d0da5a78544991c5815dfc7ea26b21
 
 Package: util-linux-static
 Architecture: i686
@@ -3230,6 +3230,21 @@ SHA1: bf71f6b9b6fb7d8270f30b2064c733537f0bffcf
 SHA256: f1e8fa6f54c219d41601ca44a7f34bbad3a742763b608ff300e563dfe191b4a2
 SHA512: d76218a4cbd157c5e4931367b00c5882d6a1791745aa8a70fbc946a2df89f4eb023c93ba2b6140fc75664be7ead0ce6be12cd71c6af3922d5df9dd93d1da3e30
 
+Package: zip
+Architecture: i686
+Installed-Size: 560
+Maintainer: @termux
+Version: 3.0-5
+Homepage: https://sourceforge.net/projects/infozip/
+Depends: libandroid-support, libbz2
+Description: Tools for working with zip files
+Filename: dists/stable/main/binary-i686/zip_3.0-5_i686.deb
+Size: 152120
+MD5Sum: b152186d1c4fef44e7b72c58c60396e5
+SHA1: 180c5082528499c0c13681090cb734444fafea68
+SHA256: 6538ba3fade6996f852f7c1668725f309cf4ee7afe584334059564a612e08a93
+SHA512: 0824d9014bbc56403ea10f1da134fdf4018bc6737af5c6b342e627c5df9297c7d1a36aaac695de6f1da203c20940a6fee5d1c49a8bdff1df06a6bdb98d79e6d0
+
 Package: zlib-static
 Architecture: i686
 Installed-Size: 124
@@ -3239,11 +3254,11 @@ Homepage: https://www.zlib.net/
 Depends: zlib (= 1.3.1)
 Description: Static libraries for zlib
 Filename: dists/stable/main/binary-i686/zlib-static_1.3.1_i686.deb
-Size: 39592
-MD5Sum: 97f52e27d10859d2db067bd425d28801
-SHA1: 45eed17009d2a4364f40b52906f51416db62962c
-SHA256: 6530658b9283581e6bb8f9219a1acfe48ec9413e6b929e94d810daac41ae2eca
-SHA512: 3b2cfa929e38778bc717687814f3eade44e1df0dd9954c513e936afb076616fa75c70422b4acfe47ecfa77021dee9f6e0cf1a8732c3072cd02e06630efba50ff
+Size: 39596
+MD5Sum: 4b68322b8b41dcc852b22e9d6bd9b290
+SHA1: 0bb469eb8f073552339e8d610afe8aefb098cebe
+SHA256: 3c212c92b5426ba4d66ce758e94db4c1936e19be9c7b5a8bb7f71e59f46339a5
+SHA512: 749312e7ca27517bf960d708fa8228cc30b5c292180a5efca327230c883ec65bc10e32d095d1e9e3a902d26c8bf7418c6056f0373dcd173bd3cc34dfabcda03f
 
 Package: zlib
 Architecture: i686
@@ -3255,11 +3270,11 @@ Breaks: ndk-sysroot (<< 19b-3), zlib-dev
 Replaces: ndk-sysroot (<< 19b-3), zlib-dev
 Description: Compression library implementing the deflate compression method found in gzip and PKZIP
 Filename: dists/stable/main/binary-i686/zlib_1.3.1_i686.deb
-Size: 66788
-MD5Sum: b4852c79fcff86c7c5bc7ae61704cee9
-SHA1: 25adf6098c5aba2e6bf72619dd62b5375b671c90
-SHA256: c9f0bc1240cc5063d0ead807ed1c994e825140dd2dca6bdab4c3b6b9bdbc8dd1
-SHA512: 23eb50a0a0ef98725fb22b1e6682bce552d23b495dd3cc714afde89bdadd47105da9266ea0683efff9d6cf453976fca0e4be084afb7f230ec3982e24acd5f957
+Size: 66812
+MD5Sum: c33b044c8b9b5eca35abf29c42fa9958
+SHA1: a4893f652db0e0add87708dd299472ce8187f3bf
+SHA256: 3f6b1a402c5e8ec320996a8730733ca0c475fc74bcc05b18d60f7265eaad9000
+SHA512: 951d049cb22c02e8cf718a55b9fe39faef9c136d2c9147ff4d9404d344bd990ce7e9359ee86a2afb894495329ecb1bd326e563a4903c0edbb65674bf54551a50
 
 Package: zstd
 Architecture: i686
